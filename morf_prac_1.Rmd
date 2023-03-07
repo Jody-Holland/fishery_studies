@@ -1,0 +1,18 @@
+---
+title: "morfometry_practice"
+author: "Jody Holland"
+date: "2023-03-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Morfometry Practice 1
+
+Morfometry is the quantitative study of physical features. In the study of fisheries it has many uses such as identifying population groups and detecting the effects of environmental factors on organisms.
+
+## Aim of this practice
+
+This markdown document is an intial space for me to practice using the various R packages related to fisheries m
