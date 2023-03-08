@@ -1,0 +1,19 @@
+---
+title: "morfometry_practice"
+author: "Jody Holland"
+date: "2023-03-07"
+output: html_document
+bibliography: mylibrary.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Morfometry Practice I
+
+Morfometry is the quantitative study of physical features. In the study of fisheries it has many uses such as identifying population groups and detecting the effects of environmental factors on organisms.
+
+## Aim and Structure of this document
+
+This markdown document is an intial space for me to practice using the various R packages related to fishery studies. This includes using ShapeR to work with otoliths in order to generate polygon outlines of otoliths. As a practice document the structure of the text and code will be quite freeform and a bit haphazard. Hopefully however, it will consist of short practice projects based on each package, with an introduction, code, and reflection. I may forget to cite things here and there, as I am still trying to set up citations in R.
